@@ -30,10 +30,10 @@ The `server` folder contains an Express.js project with several dependencies inc
 
 Before running the server, make sure to set up your environment variables. Create a `.env` file in the `server` folder and define the necessary variables such as database connection URI, JWT secret, etc.
 
-The `.env` should contaon
+The `.env` should contain:
 
 ```bash
-PORT = 5000
+PORT =
 TOKEN_SECRET =
 DATABASE_URL =
 ```
